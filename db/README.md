@@ -25,3 +25,5 @@ Database: Oracle Database 21c
 
 Schema:
 LOGISTICS
+
+/* Table -> sequence -> constraint -> Index -> Views -> function -> procedure -> package */
